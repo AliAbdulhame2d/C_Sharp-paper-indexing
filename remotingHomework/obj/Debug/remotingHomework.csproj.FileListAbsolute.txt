@@ -1,0 +1,10 @@
+c:\users\asususer\documents\visual studio 2013\Projects\remotingHomework\remotingHomework\bin\Debug\remotingHomework.exe.config
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\bin\Debug\remotingHomework.exe
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\bin\Debug\remotingHomework.pdb
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\obj\Debug\remotingHomework.csprojResolveAssemblyReference.cache
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\obj\Debug\remotingHomework.client.resources
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\obj\Debug\remotingHomework.operationsForm.resources
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\obj\Debug\remotingHomework.Properties.Resources.resources
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\obj\Debug\remotingHomework.csproj.GenerateResource.Cache
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\obj\Debug\remotingHomework.exe
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\obj\Debug\remotingHomework.pdb

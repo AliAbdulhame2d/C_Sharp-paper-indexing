@@ -1,0 +1,43 @@
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\bin\Debug\remotingHomework.exe.config
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\bin\Debug\remotingHomework.exe
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\bin\Debug\remotingHomework.pdb
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\bin\Debug\General.dll
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\bin\Debug\General.pdb
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\obj\Debug\Client.csprojResolveAssemblyReference.cache
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\obj\Debug\remotingHomework.client.resources
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\obj\Debug\remotingHomework.operationsForm.resources
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\obj\Debug\remotingHomework.Properties.Resources.resources
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\obj\Debug\remotingHomework.exe
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\obj\Debug\remotingHomework.pdb
+D:\علي\الاافتراضية\محاضرات\distriputed application programming (DP)\الوظيفة\unDistributed System\remotingHomework\remotingHomework\bin\Debug\remotingHomework.exe.config
+D:\علي\الاافتراضية\محاضرات\distriputed application programming (DP)\الوظيفة\unDistributed System\remotingHomework\remotingHomework\obj\Debug\remotingHomework.exe
+D:\علي\الاافتراضية\محاضرات\distriputed application programming (DP)\الوظيفة\unDistributed System\remotingHomework\remotingHomework\obj\Debug\remotingHomework.pdb
+D:\علي\الاافتراضية\محاضرات\distriputed application programming (DP)\الوظيفة\unDistributed System\remotingHomework\remotingHomework\bin\Debug\remotingHomework.exe
+D:\علي\الاافتراضية\محاضرات\distriputed application programming (DP)\الوظيفة\unDistributed System\remotingHomework\remotingHomework\bin\Debug\remotingHomework.pdb
+D:\علي\الاافتراضية\محاضرات\distriputed application programming (DP)\الوظيفة\unDistributed System\remotingHomework\remotingHomework\bin\Debug\General.pdb
+D:\علي\الاافتراضية\محاضرات\distriputed application programming (DP)\الوظيفة\unDistributed System\remotingHomework\remotingHomework\obj\Debug\Client.csprojResolveAssemblyReference.cache
+D:\علي\الاافتراضية\محاضرات\distriputed application programming (DP)\الوظيفة\unDistributed System\remotingHomework\remotingHomework\obj\Debug\remotingHomework.client.resources
+D:\علي\الاافتراضية\محاضرات\distriputed application programming (DP)\الوظيفة\unDistributed System\remotingHomework\remotingHomework\obj\Debug\remotingHomework.operationsForm.resources
+D:\علي\الاافتراضية\محاضرات\distriputed application programming (DP)\الوظيفة\unDistributed System\remotingHomework\remotingHomework\obj\Debug\remotingHomework.Properties.Resources.resources
+D:\علي\الاافتراضية\محاضرات\distriputed application programming (DP)\الوظيفة\unDistributed System\remotingHomework\remotingHomework\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\remotingHomework\remotingHomework\bin\Debug\paperIndexing.exe.config
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\مجلد جديد\remotingHomework\remotingHomework\bin\Debug\paperIndexing.exe.config
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\مجلد جديد\remotingHomework\remotingHomework\bin\Debug\paperIndexing.exe
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\مجلد جديد\remotingHomework\remotingHomework\bin\Debug\paperIndexing.pdb
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\مجلد جديد\remotingHomework\remotingHomework\obj\Debug\remotingHomework.client.resources
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\مجلد جديد\remotingHomework\remotingHomework\obj\Debug\remotingHomework.operationsForm.resources
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\مجلد جديد\remotingHomework\remotingHomework\obj\Debug\paperIndexing.Properties.Resources.resources
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\مجلد جديد\remotingHomework\remotingHomework\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\مجلد جديد\remotingHomework\remotingHomework\obj\Debug\paperIndexing.exe
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\مجلد جديد\remotingHomework\remotingHomework\obj\Debug\paperIndexing.pdb
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\paperIndexing\remotingHomework\remotingHomework\bin\Debug\paperIndexing.exe.config
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\paperIndexing\remotingHomework\remotingHomework\obj\Debug\paperIndexing.exe
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\paperIndexing\remotingHomework\remotingHomework\obj\Debug\paperIndexing.pdb
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\paperIndexing\remotingHomework\remotingHomework\bin\Debug\paperIndexing.exe
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\paperIndexing\remotingHomework\remotingHomework\bin\Debug\paperIndexing.pdb
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\paperIndexing\remotingHomework\remotingHomework\obj\Debug\remotingHomework.client.resources
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\paperIndexing\remotingHomework\remotingHomework\obj\Debug\remotingHomework.operationsForm.resources
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\paperIndexing\remotingHomework\remotingHomework\obj\Debug\paperIndexing.Properties.Resources.resources
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\paperIndexing\remotingHomework\remotingHomework\obj\Debug\Client.csproj.GenerateResource.Cache
+C:\Users\Asususer\Documents\Visual Studio 2013\Projects\paperIndexing\remotingHomework\remotingHomework\obj\Debug\Client.csprojResolveAssemblyReference.cache
