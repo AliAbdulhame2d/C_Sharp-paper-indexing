@@ -23,7 +23,7 @@ Diese Abbildung zeigt das Hinzufügen eines neuen Datensatzes.
 ### Data im Dtabase und die Löchenfunktion
 Diese Abbildung zeigt die geschpeichrten Data.
 
-![Datensatz löchen](screenshots/delet.png)
+![Datensatz löchen](screenshots/data.png)
 
 ---
 
